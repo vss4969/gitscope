@@ -44,5 +44,5 @@ sympy==1.12
 tiktoken==0.5.2
 tqdm==4.66.1
 typing_extensions==4.8.0
-urllib3==2.0.4
+urllib3==2.5.0
 uvicorn==0.24.0.post1
