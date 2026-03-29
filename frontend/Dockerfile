@@ -10,7 +10,7 @@ COPY . .
 RUN npm run build
 
 
-FROM nginx:alpine as production-stage
+FROM nginx:1.29.5-alpine3.23 as production-stage
 COPY nginx.conf /etc/nginx/nginx.conf
 
 
