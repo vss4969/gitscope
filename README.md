@@ -89,3 +89,4 @@ gitscope
 
 
 </font>
+Credits: Trumio-InterIIT-12/github-profile-extractor
