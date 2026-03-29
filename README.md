@@ -1,11 +1,11 @@
 <font size="4">
 
-# Sthira: An GitHub Profile Analyzer Bot
+# gitscope: An GitHub Profile Analyzer Bot
 
 This bot is used to analyze the GitHub profile of a user. The user can login through GitHub on our platform. Later can analyze his/her own repositories/projects. The bot comes up with a well structured analysis providing various metrics such as code quality, project description and many more. Users can also create teams and get profiles for teams.
 
   <a href="./assets/sthira_animation.gif" target="_blank">
-    <img src="./assets/sthira_animation.gif" alt="Sthira">
+    <img src="./assets/sthira_animation.gif" alt="gitscope">
   </a>
 
 </font>
@@ -26,7 +26,7 @@ This bot is used to analyze the GitHub profile of a user. The user can login thr
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/Vss4969/sthira.git
+    git clone https://github.com/Vss4969/gitscope.git
     ```
 
 2.  Run backend service
@@ -62,10 +62,10 @@ The application can be accesses through this [Link](http://localhost:81/). Backe
 
 ### Code Directory Structure
 
-The code for this application is present in the `sthira` folder. It is divided into `frontend` and `backend` folders. The frontend code is in `ReactJS` while the `backend` code is in `FastAPI`. The directory structure is shown below:
+The code for this application is present in the `gitscope` folder. It is divided into `frontend` and `backend` folders. The frontend code is in `ReactJS` while the `backend` code is in `FastAPI`. The directory structure is shown below:
 
 ```
-sthira
+gitscope
   |
   |- frontend
   |    |- public             -> Index, Media and Assets
