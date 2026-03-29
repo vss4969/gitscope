@@ -2,7 +2,7 @@ annotated-types==0.6.0
 anyio==3.7.1
 Authlib==1.6.5
 bcrypt==4.0.1
-certifi==2023.11.17
+certifi==2024.7.4
 cffi==1.16.0
 charset-normalizer==3.2.0
 click==8.1.7
