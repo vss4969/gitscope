@@ -46,3 +46,4 @@ tqdm==4.66.1
 typing_extensions==4.8.0
 urllib3==2.6.0
 uvicorn==0.24.0.post1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
